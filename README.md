@@ -55,7 +55,8 @@ run()函數是遊戲的主循環，它持續繪製遊戲板，處理使用者的
 開始遊戲。
 結束遊戲。
 
-1. ![image](https://github.com/alan9487/2021-3-2/assets/79899890/bcd4f85d-2f1d-4bd7-93ce-6921841bdfdd)
+1. 
+![image](https://github.com/alan9487/2021-3-2/assets/79899890/bcd4f85d-2f1d-4bd7-93ce-6921841bdfdd)
 ![image](https://github.com/alan9487/2021-3-2/assets/79899890/a2a3526a-6827-419c-b316-5a5937080ac3)
 ![image](https://github.com/alan9487/2021-3-2/assets/79899890/32125ad7-1401-4ad4-baf9-d6432a3f2eaf)
 ![image](https://github.com/alan9487/2021-3-2/assets/79899890/27890799-97e4-44b6-8312-208e7d25a4b3)
