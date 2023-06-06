@@ -4,7 +4,7 @@
 1. 資工3B 
 2. 16 
 3. 組長：辜震睿  組員：胡凱棠、陳柏諺
-4. 程式介紹。
+4. 程式介紹：![image](https://github.com/alan9487/2021-3-2/assets/79899890/2eff53bd-cef8-4a73-bc8d-20bb5000a2d2)
 
 5. 《俄羅斯方塊》是由七種四格骨牌構成，全部都由四個方塊組成。開始時，一個隨機的方塊會從區域上方開始緩慢繼續落下。落下期間，玩家可以以90度為單位旋轉方塊，以格子為單位左右移動方塊，或讓方塊加速落下。當方塊下落到區域最下方或著落到其他方塊上無法再向下移動時，就會固定在該處，然後一個新的隨機的方塊會出現在區域上方開始落下。當區域中某一橫列的格子全部由方塊填滿時，則該列會被消除並成為玩家的得分。同時消除的行數越多，得分指數級上升。玩家在遊戲中的目的就是盡量得分。當固定的方塊堆到區域最頂端而無法消除層數時，遊戲就會結束。
 
@@ -18,7 +18,7 @@
 
 7. 準備C++開發環境。 下載一個名為 "Tetris.cpp" 的檔案。  編譯程式。 開始遊戲。 結束遊戲。
 
-8. 程式執行方式
+8. 程式執行方式：![image](https://github.com/alan9487/2021-3-2/assets/79899890/c5c5ae4d-5550-4b98-b83b-a79993b5fd26)
 
 9.  
 ![image](https://github.com/alan9487/2021-3-2/assets/79899890/61b1f04a-e943-4c69-ab19-7d0e359ef756) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/2dcd70cf-f0cb-427f-9810-bffebec6a91c) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/02c49632-027f-4216-bfe2-6f85a6a8fbb1) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/b51f74c1-1662-4605-a3af-d3174bacc7fe) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/bead5c8e-a648-4c44-b2c3-803e94c95ffa) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/b583ce11-7c2b-4d30-9449-6f0df4cac242) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/4b4428cd-a8b9-4bf2-8114-2cf9bf1c7584) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/c823d85a-bb49-445e-87fb-12435f8271aa)
